@@ -2,5 +2,9 @@
 - title: Programme
   target: "/programme/"
   kind: page
-  children: []
+  children:
+  - title: Hello world — Lundi 14 novembre
+    target: "/programme/hello-world-lundi-14-novembre/"
+    kind: page
+    children: []
 
