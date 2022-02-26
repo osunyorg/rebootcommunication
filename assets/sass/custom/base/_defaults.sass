@@ -9,17 +9,38 @@ header[role=banner]
         img
             height: 30px
 
+.menu ul a, .menu ul span, .nav-link
+    &, &:hover
+        color: white
+
 footer[role=contentinfo]
     .logo
         img
             height: 100px
-    nav
-        a, span
-            &, &:hover
-                color: white
+    nav[role=navigation]
+        text-align: right
+
+div[itemprop=articleBody]
+    p
+        font-size: px2rem(30)
 
 .page__home
     .container
         font-size: px2rem(30)
     .breadcrumb
         display: none
+
+a, a:hover
+    color: white
+
+h2
+    font-weight: bold
+
+.page
+    background: none
+    .title
+        &, & .link
+            font-size: px2rem(30)
+            font-weight: bold
+    p
+        font-size: px2rem(20)
