@@ -15,4 +15,8 @@
     target: "/programme/climax-vendredi-18-novembre/"
     kind: page
     children: []
+- title: Reboot ?
+  target: "/a-propos/"
+  kind: page
+  children: []
 
