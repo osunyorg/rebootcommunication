@@ -11,4 +11,8 @@
     target: "/programme/hackathon-du-15-au-17-novembre/"
     kind: page
     children: []
+  - title: Climax — Vendredi 18 novembre
+    target: "/programme/climax-vendredi-18-novembre/"
+    kind: page
+    children: []
 
