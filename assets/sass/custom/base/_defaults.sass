@@ -4,13 +4,19 @@ body
 body, footer[role=contentinfo]
     background-color: black
 
-header[role=banner] .logo img
-    height: 80px
+header[role=banner]
+    .logo
+        img
+            height: 30px
 
-footer[role=contentinfo] nav a,
-footer[role=contentinfo] nav span
-    &, &:hover
-        color: white
+footer[role=contentinfo]
+    .logo
+        img
+            height: 100px
+    nav
+        a, span
+            &, &:hover
+                color: white
 
 .page__home
     .container
