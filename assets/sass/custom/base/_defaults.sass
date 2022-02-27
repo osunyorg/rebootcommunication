@@ -9,9 +9,13 @@ header[role=banner]
         img
             height: 30px
 
-.menu ul a, .menu ul span, .nav-link
-    &, &:hover
-        color: white
+.menu, .dropdown-menu
+    background: black
+    ul a,
+    ul span,
+    .nav-link
+        &, &:hover
+            color: white !important
 
 footer[role=contentinfo]
     .logo
@@ -35,6 +39,19 @@ a, a:hover
 
 h2
     font-weight: bold
+
+.hero
+    background-image: url(/assets/images/illustrations/dark.svg)
+    background-position: top right
+    background-repeat: no-repeat
+    background-size: contain
+    @include media-breakpoint-down(lg)
+        background-size: 40%
+    @include media-breakpoint-down(md)
+        background-size: 70%
+        padding-top: 300px
+    @include media-breakpoint-down(sm)
+        background-size: 100%
 
 .page
     background: none
