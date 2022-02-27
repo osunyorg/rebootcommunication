@@ -3,12 +3,12 @@
   target: "/programme/"
   kind: page
   children:
-  - title: Hello world — Lundi 14 novembre
-    target: "/programme/hello-world-lundi-14-novembre/"
+  - title: Hello world
+    target: "/programme/hello-world/"
     kind: page
     children: []
   - title: Hackathon — Du 15 au 17 novembre
-    target: "/programme/hackathon-du-15-au-17-novembre/"
+    target: "/programme/hackathon/"
     kind: page
     children: []
   - title: Climax — Vendredi 18 novembre
