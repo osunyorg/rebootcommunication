@@ -8,14 +8,14 @@ header[role=banner]
     .logo
         img
             height: 30px
+            @include media-breakpoint-down(md)
+                height: 20px
+                margin-top: -7px
 
 .menu, .dropdown-menu
     background: black
-    ul a,
-    ul span,
-    .nav-link
-        &, &:hover
-            color: white !important
+    li a:hover
+        background-color: #222222 !important
 
 footer[role=contentinfo]
     .logo
@@ -35,7 +35,7 @@ div[itemprop=articleBody]
         display: none
 
 a, a:hover
-    color: white
+    color: white !important
 
 h2
     font-weight: bold
