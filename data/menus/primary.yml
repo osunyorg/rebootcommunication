@@ -7,7 +7,7 @@
     target: "/programme/hello-world/"
     kind: page
     children: []
-  - title: Hackathon — Du 15 au 17 novembre
+  - title: Hackathon
     target: "/programme/hackathon/"
     kind: page
     children: []
