@@ -19,4 +19,8 @@
   target: "/a-propos/"
   kind: page
   children: []
+- title: Partenaires
+  target: "/partenaires/"
+  kind: page
+  children: []
 
