@@ -2,11 +2,12 @@
   {{ partial "home/hero.html" . }}
 
   <div class="container">
-
-    <a href="/programme" class="btn btn-light btn-lg">Découvrir le programme</a>
+    <section>
+      <a href="/programme" class="btn btn-light btn-lg">Découvrir le programme</a>
+    </section>
 
     {{ if (partial "GetTextFromHTML" .Content) }}
-    <section>
+    <section itemprop="articleBody">
       {{- partial "PrepareHTML" .Content -}}
     </section>
     {{ end }}

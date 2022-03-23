@@ -24,13 +24,11 @@ footer[role=contentinfo]
     nav[role=navigation]
         text-align: right
 
-div[itemprop=articleBody]
-    p
-        font-size: px2rem(30)
-
 .page__home
     main
-        font-size: px2rem(30)
+        [itemprop='articleBody'] p, .top p 
+            font-size: px2rem(30)
+            line-height: px2rem(45)
     .breadcrumb
         display: none
 
@@ -43,6 +41,10 @@ a, a:hover
 
 h2
     font-weight: bold
+
+p
+    font-size: px2rem(20)
+    line-height: px2rem(30)
 
 .hero
     background-image: url(/assets/images/illustrations/dark.svg)
@@ -63,5 +65,3 @@ h2
         &, & .link
             font-size: px2rem(30)
             font-weight: bold
-    p
-        font-size: px2rem(20)
