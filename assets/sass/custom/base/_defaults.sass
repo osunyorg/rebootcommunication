@@ -29,8 +29,10 @@ div[itemprop=articleBody]
         font-size: px2rem(30)
 
 .page__home
-    .container
-        font-size: px2rem(30)
+    main
+        [itemprop='articleBody'] p, .top p 
+            font-size: px2rem(30)
+            line-height: px2rem(45)
     .breadcrumb
         display: none
 
@@ -47,6 +49,11 @@ a, a:hover
 
 h2
     font-weight: bold
+
+p
+    font-size: px2rem(20)
+    line-height: px2rem(30)
+
 
 .hero
     background-image: url(/assets/images/illustrations/dark.svg)
