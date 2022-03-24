@@ -24,11 +24,13 @@ footer[role=contentinfo]
     nav[role=navigation]
         text-align: right
 
+div[itemprop=articleBody]
+    p
+        font-size: px2rem(30)
+
 .page__home
-    main
-        [itemprop='articleBody'] p, .top p 
-            font-size: px2rem(30)
-            line-height: px2rem(45)
+    .container
+        font-size: px2rem(30)
     .breadcrumb
         display: none
 
@@ -36,15 +38,15 @@ a, a:hover
     color: white !important
 
 .btn-light
-    &, &:hover
         color: black !important
+        transition: .3s ease-in-out
+        &:hover
+            color: white
+            background-color: transparent
+            border:  1px solid white
 
 h2
     font-weight: bold
-
-p
-    font-size: px2rem(20)
-    line-height: px2rem(30)
 
 .hero
     background-image: url(/assets/images/illustrations/dark.svg)
@@ -65,3 +67,36 @@ p
         &, & .link
             font-size: px2rem(30)
             font-weight: bold
+    p
+        font-size: px2rem(20)
+
+.btn-green
+    background-color: #7FC295
+    border-color: #7FC295
+    color: #000 !important
+    transition: .3s
+    &:hover
+        color:  #7FC295 !important
+        background-color: transparent
+        border: 1px solid #7FC295
+
+.cta
+    margin-bottom: 3rem
+
+.cta-label
+    font-size: px2rem(22)
+    margin-bottom: 1rem
+
+.mini-cta
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+    margin-bottom: 7rem
+    .ecole-cta,  .partenaire-cta, .annuaire-cta
+        width: 23rem
+        display: flex
+        flex-direction: column
+        margin: 1rem 0
+        a
+            display: inline-block
+            width: fit-content
