@@ -3,4 +3,8 @@
   target: "/charte-ethique/"
   kind: page
   children: []
+- title: Mention légales
+  target: "/mention-legales/"
+  kind: page
+  children: []
 
