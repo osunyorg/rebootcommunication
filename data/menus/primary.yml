@@ -19,12 +19,12 @@
   target: "/a-propos/"
   kind: page
   children: []
-- title: Partenaires
-  target: "/partenaires/"
-  kind: page
-  children: []
 - title: Écoles
   target: "/ecoles/"
+  kind: page
+  children: []
+- title: Partenaires
+  target: "/partenaires/"
   kind: page
   children: []
 
