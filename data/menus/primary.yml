@@ -23,4 +23,8 @@
   target: "/partenaires/"
   kind: page
   children: []
+- title: Écoles
+  target: "/ecoles/"
+  kind: page
+  children: []
 
