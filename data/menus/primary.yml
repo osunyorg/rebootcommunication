@@ -15,9 +15,9 @@
     target: "/programme/climax-vendredi-18-novembre/"
     kind: page
     children: []
-- title: Écoles
-  target: "/ecoles/"
-  kind: page
+- title: Participant
+  target: "/"
+  kind: blank
   children: []
 - title: A propos de Reboot!
   target: "/a-propos/"
