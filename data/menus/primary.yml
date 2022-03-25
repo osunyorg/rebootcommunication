@@ -7,7 +7,7 @@
     target: "/programme/hello-world/"
     kind: page
     children: []
-  - title: Hackathon
+  - title: Jours 2,3,4 - Hackathon
     target: "/programme/hackathon/"
     kind: page
     children: []
