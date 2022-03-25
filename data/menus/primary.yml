@@ -23,12 +23,12 @@
     target: "/ecoles/"
     kind: page
     children: []
+  - title: Partenaires
+    target: "/partenaires/"
+    kind: page
+    children: []
 - title: A propos de Reboot!
   target: "/a-propos/"
-  kind: page
-  children: []
-- title: Partenaires
-  target: "/partenaires/"
   kind: page
   children: []
 
