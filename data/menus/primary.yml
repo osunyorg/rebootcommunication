@@ -3,7 +3,7 @@
   target: "/programme/"
   kind: page
   children:
-  - title: Hello world
+  - title: Jour 1 - Hello world
     target: "/programme/hello-world/"
     kind: page
     children: []
