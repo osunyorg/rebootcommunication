@@ -27,7 +27,7 @@
     target: "/partenaires/"
     kind: page
     children: []
-- title: A propos de Reboot!
+- title: A propos
   target: "/a-propos/"
   kind: page
   children: []
