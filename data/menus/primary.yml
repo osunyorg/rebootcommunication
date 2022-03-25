@@ -15,12 +15,12 @@
     target: "/programme/climax-vendredi-18-novembre/"
     kind: page
     children: []
-- title: A propos de Reboot!
-  target: "/a-propos/"
-  kind: page
-  children: []
 - title: Écoles
   target: "/ecoles/"
+  kind: page
+  children: []
+- title: A propos de Reboot!
+  target: "/a-propos/"
   kind: page
   children: []
 - title: Partenaires
