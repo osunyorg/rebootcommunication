@@ -15,7 +15,7 @@
     target: "/programme/climax-vendredi-18-novembre/"
     kind: page
     children: []
-- title: Participant
+- title: Participer
   target: "/"
   kind: blank
   children:
