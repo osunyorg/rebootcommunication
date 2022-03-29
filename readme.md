@@ -16,7 +16,7 @@ brew upgrade hugo
 
 Pour cloner avec le thème
 ```
-git clone git@github.com:noesya/osuny-hugo-template.git --recurse-submodules
+git clone git@github.com:noesya/rebootcommunication.git --recurse-submodules
 ```
 Pour récupérer le thème
 ```
