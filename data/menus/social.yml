@@ -23,4 +23,8 @@
   target: "/equipe/"
   kind: page
   children: []
+- title: Youtube
+  target: https://www.youtube.com/channel/UC2qNef7cRXY-bgM07K7aiTQ/
+  kind: url
+  children: []
 
