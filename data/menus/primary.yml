@@ -31,4 +31,8 @@
   target: "/a-propos/"
   kind: page
   children: []
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
 
