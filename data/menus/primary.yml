@@ -39,4 +39,8 @@
   target: https://ressources.rebootcommunication.org/
   kind: url
   children: []
+- title: Annuaire
+  target: https://annuaire.rebootcommunication.org/
+  kind: url
+  children: []
 
