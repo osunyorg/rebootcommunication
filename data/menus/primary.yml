@@ -35,12 +35,4 @@
   target: "/a-propos/"
   kind: page
   children: []
-- title: Ressources
-  target: https://ressources.rebootcommunication.org/
-  kind: url
-  children: []
-- title: Annuaire
-  target: https://annuaire.rebootcommunication.org/
-  kind: url
-  children: []
 
