@@ -24,7 +24,7 @@
   kind: blank
   children:
   - title: Écoles
-    target: "/ecoles/"
+    target: "/participer/ecoles/"
     kind: page
     children: []
   - title: Partenaires
