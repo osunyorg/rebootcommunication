@@ -28,7 +28,7 @@
     kind: page
     children: []
   - title: Partenaires
-    target: "/partenaires/"
+    target: "/participer/partenaires/"
     kind: page
     children: []
 - title: A propos
