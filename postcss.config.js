@@ -7,23 +7,23 @@ module.exports = {
                 'layouts/**/*.html'
             ],
             safelist: {
-              standard: [
-                'show',
-                'active',
-                'collapsed',
-                /^dropdown/,
-                /^btn/,
-                /^nav-level-/,
-                /^is-/,
-                /^has-/,
-                /^js-/
-              ],
-              greedy: [
-                  /__home/,
-                  /__page/,
-                  /__section/,
-                  /__term/
-              ]
+                standard: [
+                    'show',
+                    'active',
+                    'collapsed',
+                    /^dropdown/,
+                    /^btn/,
+                    /^nav-level-/,
+                    /^is-/,
+                    /^has-/,
+                    /^js-/
+                ],
+                greedy: [
+                    /__home/,
+                    /__page/,
+                    /__section/,
+                    /__term/
+                ]
             }
         },
         autoprefixer: {},
