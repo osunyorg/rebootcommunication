@@ -42,11 +42,11 @@ a, a:hover
     color: white !important
 
 .btn-light
-        color: black !important
-        &:hover
-            color: white
-            background-color: transparent
-            border:  1px solid white
+    color: black !important
+    &:hover
+        background-color: transparent
+        border: 1px solid white
+        color: white
 
 h2
     font-weight: bold
@@ -79,16 +79,16 @@ p
         font-size: px2rem(20)
 
 .btn_green, .btn-light
-  transition: .3s ease-in-out
+    transition: .3s ease-in-out
 
 .btn-green
     background-color: #7FC295
     border-color: #7FC295
-    color: #000 !important
+    color: #000000 !important
     &:hover
-        color:  #7FC295 !important
         background-color: transparent
         border: 1px solid #7FC295
+        color:  #7FC295 !important
 
 .cta
     margin-bottom: 3rem
@@ -98,15 +98,15 @@ p
     margin-bottom: 1rem
 
 .mini-cta
-    display: flex;
-    flex-wrap: wrap;
+    display: flex
+    flex-wrap: wrap
     justify-content: space-between
     margin-bottom: 7rem
-    .ecole-cta,  .partenaire-cta, .annuaire-cta
-        width: 23rem
+    .ecole-cta, .partenaire-cta, .annuaire-cta
         display: flex
         flex-direction: column
         margin: 1rem 0
+        width: 23rem
         a
             display: inline-block
             width: fit-content
