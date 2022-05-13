@@ -42,7 +42,7 @@ blocks:
     position: 2
     data:
       text: >-
-        <p>Vous souhaitez inscrire votre <b>école</b> à l’événement Reboot, devenir <b>partenaire</b> de l'événement, ou <b>intervenir</b> au sein des écoles ?</p>
+        <p>Vous souhaitez inscrire votre <b>école</b> à l’événement Reboot, devenir <b>partenaire</b> de l'événement, ou <b>intervenir</b> au sein des écoles ?</p>
       button:
         text: >-
           Inscrire mon école
@@ -64,18 +64,16 @@ blocks:
     position: 3
     data:
       page: /programme/
+      show_main_description: false
       show_descriptions: true
       show_images: false
       pages:
-        - slug: /programme/hello-world/
-          show_description: true
-          show_image: false
-        - slug: /programme/hackathon/
-          show_description: true
-          show_image: false
-        - slug: /programme/climax-vendredi-18-novembre/
-          show_description: true
-          show_image: false
+        - page: /programme/hello-world/
+          slug: /programme/hello-world/
+        - page: /programme/hackathon/
+          slug: /programme/hackathon/
+        - page: /programme/climax-vendredi-18-novembre/
+          slug: /programme/climax-vendredi-18-novembre/
 
 
 ---
