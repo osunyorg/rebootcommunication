@@ -8,7 +8,7 @@
   kind: page
   children:
   - title: Jour 1 - Hello world
-    target: "/programme/hello-world/"
+    target: "/programme/hello-world-lundi-14-novembre/"
     kind: page
     children: []
   - title: Jours 2, 3, 4 - Hackathon
