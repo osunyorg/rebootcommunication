@@ -17,6 +17,11 @@
   "scripts": {
     "watch": "hugo server",
     "dev": "hugo server",
-    "build": "hugo --minify"
+    "build": "hugo --minify",
+    "update": "git pull --recurse-submodules --depth 1 && git submodule update --remote",
+    "setup-example": "git submodule add https://github.com/noesya/osuny-example",
+    "server-example": "hugo server --config 'osuny-example/config/example/config.yaml'",
+    "example": "yarn setup-example > /dev/null || yarn update && yarn server-example",
+    "update-theme": "cd themes/osuny-hugo-theme && git checkout main && git pull && cd ../.. && git commit -am 'theme'"
   }
 }
