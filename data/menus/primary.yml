@@ -7,7 +7,7 @@
   target: "/programme/"
   kind: page
   children:
-  - title: Jour 1 - Hello world
+  - title: Jour 1 - Fondamentaux
     target: "/programme/hello-world-lundi-14-novembre/"
     kind: page
     children: []
