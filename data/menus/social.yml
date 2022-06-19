@@ -23,4 +23,8 @@
   target: https://www.twitch.tv/reboot_01/
   kind: url
   children: []
+- title: Reboot 2021
+  target: https://www.reboot2021.org/
+  kind: url
+  children: []
 
