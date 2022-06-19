@@ -19,8 +19,4 @@
   target: https://www.youtube.com/channel/UC2qNef7cRXY-bgM07K7aiTQ/
   kind: url
   children: []
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  children: []
 
