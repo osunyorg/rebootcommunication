@@ -3,4 +3,8 @@
   target: "/charte-ethique/"
   kind: page
   children: []
+- title: Reboot 2021
+  target: https://www.reboot2021.org/
+  kind: url
+  children: []
 
