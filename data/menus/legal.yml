@@ -7,4 +7,8 @@
   target: https://www.reboot2021.org/
   kind: url
   children: []
+- title: Mentions légales
+  target: "/mentions-legales/"
+  kind: page
+  children: []
 
