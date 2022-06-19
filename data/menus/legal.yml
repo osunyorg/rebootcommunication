@@ -3,16 +3,12 @@
   target: "/charte-ethique/"
   kind: page
   children: []
-- title: Reboot 2021
-  target: https://www.reboot2021.org/
-  kind: url
+- title: Équipe
+  target: "/equipe-1/"
+  kind: persons
   children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
-  children: []
-- title: Équipe
-  target: "/equipe-1/"
-  kind: persons
   children: []
 
