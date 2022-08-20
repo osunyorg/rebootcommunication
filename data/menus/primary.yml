@@ -31,10 +31,6 @@
     target: "/participer/partenaires/"
     kind: page
     children: []
-- title: Annuaire
-  target: https://annuaire.rebootcommunication.org/
-  kind: url
-  children: []
 - title: Ressources
   target: https://ressources.rebootcommunication.org/
   kind: url
@@ -46,5 +42,9 @@
   - title: À propos
     target: "/a-propos/"
     kind: page
+    children: []
+  - title: Annuaire
+    target: https://annuaire.rebootcommunication.org/
+    kind: url
     children: []
 
