@@ -19,52 +19,52 @@
     font-weight: bold
     src: url('/assets/fonts/AesteticoFormal-Bold/font.woff2') format('woff2'), url('/assets/fonts/AesteticoFormal-Bold/font.woff') format('woff')
 
-body
-    ::selection
-        background-color: $color
+// body
+    // ::selection
+        // background-color: $color
 
-body, footer[role=contentinfo]
-    background-color: black
+// body, footer[role=contentinfo]
+//     background-color: black
 
-header[role=banner]
-    .logo
-        img
-            height: 30px
-            @include media-breakpoint-down(md)
-                height: 20px
-                margin-top: -7px
-.menu
-    background-color: black
+// header[role=banner]
+//     .logo
+//         img
+//             height: 30px
+//             @include media-breakpoint-down(md)
+//                 height: 20px
+//                 margin-top: -7px
+// .menu
+//     background-color: black
 
-footer[role=contentinfo]
-    color: white
-    .logo
-        img
-            height: 100px
-    nav[role=navigation]
-        display: none
+// footer[role=contentinfo]
+//     color: white
+//     .logo
+//         img
+//             height: 100px
+//     nav[role=navigation]
+//         display: none
 
-.page__home
-    main
-        [itemprop='articleBody'] p, .top p
-            font-size: px2rem(30)
-            line-height: px2rem(45)
-    .breadcrumb
-        display: none
+// .page__home
+//     main
+//         [itemprop='articleBody'] p, .top p
+//             font-size: px2rem(30)
+//             line-height: px2rem(45)
+//     .breadcrumb
+//         display: none
 
-.btn-light
-    color: black !important
-    &:hover
-        background-color: transparent
-        border: 1px solid white
-        color: white !important
+// .btn-light
+//     color: black !important
+//     &:hover
+//         background-color: transparent
+//         border: 1px solid white
+//         color: white !important
 
-h2, h4
-    font-weight: bold
+// h2, h4
+//     font-weight: bold
 
-p, li
-    font-size: px2rem(20)
-    line-height: px2rem(30)
+// p, li
+//     font-size: px2rem(20)
+//     line-height: px2rem(30)
 
 .hero
     background-image: url(/assets/images/illustrations/dark.svg)
@@ -79,69 +79,69 @@ p, li
     @include media-breakpoint-down(sm)
         background-size: 100%
 
-.page
-    background: none
-    .title
-        &, & .link
-            font-size: px2rem(30)
-            font-weight: bold
-    p
-        font-size: px2rem(20)
+// .page
+//     background: none
+//     .title
+//         &, & .link
+//             font-size: px2rem(30)
+//             font-weight: bold
+//     p
+//         font-size: px2rem(20)
 
-.btn_green, .btn-light
-    transition: .3s ease-in-out
+// .btn_green, .btn-light
+//     transition: .3s ease-in-out
 
-.btn-green
-    background-color: $color
-    border-color: $color
-    color: #000000 !important
-    &:hover
-        background-color: transparent
-        border: 1px solid $color
-        color:  $color !important
+// .btn-green
+//     background-color: $color
+//     border-color: $color
+//     color: #000000 !important
+//     &:hover
+//         background-color: transparent
+//         border: 1px solid $color
+//         color:  $color !important
 
-.cta
-    margin-bottom: 3rem
+// .cta
+//     margin-bottom: 3rem
 
-.cta-label
-    font-size: px2rem(22)
-    margin-bottom: 1rem
+// .cta-label
+//     font-size: px2rem(22)
+//     margin-bottom: 1rem
 
-.mini-cta
-    display: flex
-    flex-wrap: wrap
-    justify-content: space-between
-    margin-bottom: 7rem
-    .ecole-cta, .partenaire-cta, .annuaire-cta
-        display: flex
-        flex-direction: column
-        margin: 1rem 0
-        width: 23rem
-        a
-            display: inline-block
-            width: fit-content
+// .mini-cta
+//     display: flex
+//     flex-wrap: wrap
+//     justify-content: space-between
+//     margin-bottom: 7rem
+//     .ecole-cta, .partenaire-cta, .annuaire-cta
+//         display: flex
+//         flex-direction: column
+//         margin: 1rem 0
+//         width: 23rem
+//         a
+//             display: inline-block
+//             width: fit-content
 
-.toc .active
-    color: $yellow
+// .toc .active
+//     color: $yellow
 
-.block-timeline
-    .events::before,
-    .event::before
-        background: white
+// .block-timeline
+//     .events::before,
+//     .event::before
+//         background: white
 
-.block-partners
-    .media
-        img
-            margin: 0
-            object-fit: cover
-            width: 100%
-            height: auto
-    .organization
-        margin-bottom: 2rem
+// .block-partners
+//     .media
+//         img
+//             margin: 0
+//             object-fit: cover
+//             width: 100%
+//             height: auto
+//     .organization
+//         margin-bottom: 2rem
 
-.block-pages
-    &--cards
-        .pages
-            > *
-                @include media-breakpoint-up(xl)
-                    width: calc(100% / 3)
+// .block-pages
+//     &--cards
+//         .pages
+//             > *
+//                 @include media-breakpoint-up(xl)
+//                     width: calc(100% / 3)
