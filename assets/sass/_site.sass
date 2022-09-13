@@ -138,3 +138,10 @@ p, li
             height: auto
     .organization
         margin-bottom: 2rem
+
+.block-pages
+    &--cards
+        .pages
+            > *
+                @include media-breakpoint-up(xl)
+                    width: calc(100% / 3)
