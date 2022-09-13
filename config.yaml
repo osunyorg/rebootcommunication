@@ -10,7 +10,7 @@ languageCode: fr
 languages:
   fr:
     title: Reboot !
-theme: osuny-hugo-theme-aaa
+theme: osuny-hugo-theme-AAA
 paginate: 18
 permalinks:
   posts:          /actualites/:year/:month/:day/:slug/
