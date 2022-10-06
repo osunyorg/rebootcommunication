@@ -39,6 +39,10 @@
     target: "/en-savoir-plus/a-propos/"
     kind: page
     children: []
+  - title: Qui sommes-nous ?
+    target: "/en-savoir-plus/equipe/"
+    kind: page
+    children: []
   - title: Annuaire
     target: https://annuaire.rebootcommunication.org/
     kind: url
