@@ -40,7 +40,7 @@
     kind: page
     children: []
   - title: Qui sommes-nous ?
-    target: "/en-savoir-plus/equipe/"
+    target: "/en-savoir-plus/qui-sommes-nous/"
     kind: page
     children: []
   - title: Annuaire
