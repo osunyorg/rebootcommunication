@@ -25,10 +25,29 @@ body
         color: white
 
 header[role=banner]
+    background-color: rgba(0, 0, 0, 0.7)
     backdrop-filter: blur(6px)
+    .menu
+        background-color: transparent
+    .logo
+        img
+            height: 30px
+            @include media-breakpoint-down(md)
+                height: 20px
+                margin-top: -7px
+.menu
+    background-color: black
 
-// body, footer[role=contentinfo]
-//     background-color: black
+main
+    margin-top: -58px
+
+footer[role=contentinfo]
+    color: white
+    .logo
+        img
+            height: 100px
+    nav[role=navigation]
+        display: none
 
 // header[role=banner]
 //     .logo
@@ -133,19 +152,20 @@ header[role=banner]
 //     .event::before
 //         background: white
 
-// .block-partners
-//     .media
-//         img
-//             margin: 0
-//             object-fit: cover
-//             width: 100%
-//             height: auto
-//     .organization
-//         margin-bottom: 2rem
+.block-partners
+    .media
+        img
+            margin: 0
+            object-fit: cover
+            width: 100%
+            height: auto
+    .organization
+        margin-bottom: 2rem
 
-// .block-pages
-//     &--cards
-//         .pages
-//             > *
-//                 @include media-breakpoint-up(xl)
-//                     width: calc(100% / 3)
+.block-pages
+    @include in-page-without-aside
+        &--cards
+            .pages
+                > *
+                    @include media-breakpoint-up(xl)
+                        width: 33.33333%

@@ -36,7 +36,11 @@
   kind: blank
   children:
   - title: À propos
-    target: "/a-propos/"
+    target: "/en-savoir-plus/a-propos/"
+    kind: page
+    children: []
+  - title: Qui sommes-nous ?
+    target: "/en-savoir-plus/qui-sommes-nous/"
     kind: page
     children: []
   - title: Annuaire
