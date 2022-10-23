@@ -15,10 +15,6 @@
     target: "/programme/hackathon/"
     kind: page
     children: []
-  - title: Jour 5 - Débats et remise des prix
-    target: "/programme/jour-5-vendredi-18-novembre/"
-    kind: page
-    children: []
 - title: Participer
   target: "/"
   kind: blank
