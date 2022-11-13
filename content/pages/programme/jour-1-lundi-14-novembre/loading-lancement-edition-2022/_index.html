@@ -92,29 +92,17 @@ blocks:
     position: 8
     data:
       code: >-
-        <!-- Add a placeholder for the Twitch embed -->
+        <iframe src="https://player.twitch.tv/?channel=joueur_du_grenier&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" width="100%"></iframe>
         
-        <div id="twitch-embed"></div>
+        <iframe
         
+          id="chat_embed"
         
+          src="https://www.twitch.tv/embed/joueur_du_grenier/chat?parent=www.example.com"
         
-        <!-- Load the Twitch embed script -->
+          width="100%">
         
-        <script src="https://player.twitch.tv/js/embed/v1.js"></script>
-        
-        
-        
-        <!-- Create a Twitch.Player object. This will render within the placeholder div -->
-        
-        <script type="text/javascript">
-        
-          new Twitch.Player("twitch-embed", {
-        
-            channel: "joueur_du_grenier"
-        
-          });
-        
-        </script>
+        </iframe>
 
 
       transcription: >-
