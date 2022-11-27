@@ -1,0 +1,30 @@
+header[role=banner]
+    background-color: rgba(0, 0, 0, 0.7)
+    backdrop-filter: blur(6px)
+    .menu
+        background-color: transparent
+    .logo
+        img
+            height: 30px
+            @include media-breakpoint-down(md)
+                height: 20px
+                margin-top: -7px
+
+footer[role=contentinfo]
+    nav[role=navigation]
+        display: none
+
+.hero
+    background-image: url(/assets/images/illustrations/dark.svg)
+    background-position: top right
+    background-repeat: no-repeat
+    background-size: contain
+    @include media-breakpoint-up(md)
+        padding-right: col(4)
+    @include media-breakpoint-down(lg)
+        background-size: 40%
+    @include media-breakpoint-down(md)
+        background-size: 70%
+        padding-top: 300px
+    @include media-breakpoint-down(sm)
+        background-size: 100%
