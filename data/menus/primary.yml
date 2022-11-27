@@ -59,4 +59,8 @@
     target: https://2021.rebootcommunication.org/
     kind: url
     children: []
+  - title: Reboot 2022
+    target: "/reboot-2022/"
+    kind: page
+    children: []
 
