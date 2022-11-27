@@ -31,6 +31,18 @@
     target: "/participer/partenaires/"
     kind: page
     children: []
+- title: Éditions précédentes
+  target: "/"
+  kind: blank
+  children:
+  - title: Reboot 2022
+    target: "/reboot-2022/"
+    kind: page
+    children: []
+  - title: Reboot 2021
+    target: https://2021.rebootcommunication.org/
+    kind: url
+    children: []
 - title: En savoir plus
   target: "/"
   kind: blank
@@ -49,18 +61,6 @@
     children: []
   - title: Ressources
     target: https://ressources.rebootcommunication.org/
-    kind: url
-    children: []
-- title: Éditions précédentes
-  target: "/"
-  kind: blank
-  children:
-  - title: Reboot 2022
-    target: "/reboot-2022/"
-    kind: page
-    children: []
-  - title: Reboot 2021
-    target: https://2021.rebootcommunication.org/
     kind: url
     children: []
 
