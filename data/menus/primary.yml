@@ -51,4 +51,8 @@
     target: https://ressources.rebootcommunication.org/
     kind: url
     children: []
+- title: Éditions précédentes
+  target: "/"
+  kind: blank
+  children: []
 
