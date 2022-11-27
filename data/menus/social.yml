@@ -3,10 +3,6 @@
   target: https://www.reboot2021.org/
   kind: url
   children: []
-- title: Facebook
-  target: https://www.facebook.com/rebootcommunicationorg/
-  kind: url
-  children: []
 - title: Instagram
   target: https://instagram.com/rebootcommunication/
   kind: url
