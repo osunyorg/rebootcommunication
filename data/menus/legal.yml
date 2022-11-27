@@ -4,8 +4,8 @@
   kind: page
   children: []
 - title: Équipe
-  target: "/equipe/"
-  kind: persons
+  target: "/en-savoir-plus/qui-sommes-nous/"
+  kind: page
   children: []
 - title: Mentions légales
   target: "/mentions-legales/"
