@@ -8,11 +8,11 @@
   kind: page
   children:
   - title: Jour 1 - Fondamentaux
-    target: "/programme/jour-1-lundi-14-novembre/"
+    target: "/reboot-2022/jour-1-lundi-14-novembre/"
     kind: page
     children: []
   - title: Jours 2, 3, 4 - Hackathon
-    target: "/programme/hackathon/"
+    target: "/reboot-2022/hackathon/"
     kind: page
     children: []
   - title: Jour 5 - Débats et remise des prix
