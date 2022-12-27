@@ -1,20 +1,3 @@
-@font-face
-    font-display: swap
-    font-family: 'Aestetico Formal'
-    font-style: normal
-    font-weight: 200
-    src: url('/assets/fonts/AesteticoFormal-Thin/font.woff2') format('woff2'), url('/assets/fonts/AesteticoFormal-Thin/font.woff') format('woff')
-
-@font-face
-    font-display: swap
-    font-family: 'Aestetico Formal'
-    font-style: normal
-    font-weight: normal
-    src: url('/assets/fonts/AesteticoFormal-Light/font.woff2') format('woff2'), url('/assets/fonts/AesteticoFormal-Light/font.woff') format('woff')
-
-@font-face
-    font-display: swap
-    font-family: 'Aestetico Formal'
-    font-style: normal
-    font-weight: bold
-    src: url('/assets/fonts/AesteticoFormal-Bold/font.woff2') format('woff2'), url('/assets/fonts/AesteticoFormal-Bold/font.woff') format('woff')
+@include font-face("Aestetico Formal", AesteticoFormal-Thin/font, $weight: 200, $exts: (woff2 woff))
+@include font-face("Aestetico Formal", AesteticoFormal-Light/font, $exts: (woff2 woff))
+@include font-face("Aestetico Formal", AesteticoFormal-Bold/font, $weight: bold, $exts: (woff2 woff))
