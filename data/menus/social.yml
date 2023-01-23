@@ -1,26 +1,26 @@
 ---
 - title: Reboot 2021
-  target: https://www.reboot2021.org/
+  target: https://www.reboot2021.org
   kind: url
   children: []
 - title: Instagram
-  target: https://instagram.com/rebootcommunication/
+  target: https://instagram.com/rebootcommunication
   kind: url
   children: []
 - title: Twitter
-  target: https://twitter.com/Reboot_com/
+  target: https://twitter.com/Reboot_com
   kind: url
   children: []
 - title: LinkedIn
-  target: https://www.linkedin.com/company/rebootcommunication/
+  target: https://www.linkedin.com/company/rebootcommunication
   kind: url
   children: []
 - title: Youtube
-  target: https://www.youtube.com/channel/UC2qNef7cRXY-bgM07K7aiTQ/
+  target: https://www.youtube.com/channel/UC2qNef7cRXY-bgM07K7aiTQ
   kind: url
   children: []
 - title: Twitch
-  target: https://www.twitch.tv/reboot_01/
+  target: https://www.twitch.tv/reboot_01
   kind: url
   children: []
 

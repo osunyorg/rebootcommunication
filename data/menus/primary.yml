@@ -20,7 +20,7 @@
     kind: page
     children: []
 - title: Participer
-  target: "/"
+  target: ''
   kind: blank
   children:
   - title: Écoles
@@ -32,7 +32,7 @@
     kind: page
     children: []
 - title: Éditions précédentes
-  target: "/"
+  target: ''
   kind: blank
   children:
   - title: Reboot 2022
@@ -40,11 +40,11 @@
     kind: page
     children: []
   - title: Reboot 2021
-    target: https://2021.rebootcommunication.org/
+    target: https://2021.rebootcommunication.org
     kind: url
     children: []
 - title: En savoir plus
-  target: "/"
+  target: ''
   kind: blank
   children:
   - title: À propos
@@ -56,11 +56,11 @@
     kind: page
     children: []
   - title: Annuaire
-    target: https://annuaire.rebootcommunication.org/
+    target: https://annuaire.rebootcommunication.org
     kind: url
     children: []
   - title: Ressources
-    target: https://ressources.rebootcommunication.org/
+    target: https://ressources.rebootcommunication.org
     kind: url
     children: []
 
