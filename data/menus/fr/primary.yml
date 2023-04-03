@@ -1,4 +1,6 @@
 ---
+title: Primary
+items:
 - title: Accueil
   target: "/"
   kind: page
