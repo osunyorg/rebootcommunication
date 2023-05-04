@@ -10,7 +10,7 @@ items:
   kind: page
   children:
   - title: Jour 1 - Fondamentaux
-    target: "/reboot-2022/jour-1-lundi-14-novembre/"
+    target: "/programme/jour-1-lundi-13-novembre-2023/"
     kind: page
     children: []
   - title: Jours 2, 3, 4 - Hackathon
