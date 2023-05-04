@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
   - title: Jours 2, 3, 4 - Hackathon
-    target: "/reboot-2022/hackathon/"
+    target: "/programme/hackathon-2023/"
     kind: page
     children: []
   - title: Jour 5 - Conférences et remise des prix
