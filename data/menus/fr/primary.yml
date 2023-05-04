@@ -17,8 +17,8 @@ items:
     target: "/reboot-2022/hackathon/"
     kind: page
     children: []
-  - title: Jour 5 - Débats et remise des prix
-    target: "/reboot-2022/jour-5-vendredi-18-novembre/"
+  - title: Jour 5 - Conférences et remise des prix
+    target: "/programme/jour-5-vendredi-17-novembre-2023/"
     kind: page
     children: []
 - title: Participer
