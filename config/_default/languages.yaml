@@ -5,3 +5,6 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  permalinks:
+    organizations: /organisations/:slug/
+    persons: /equipe/:slug/
