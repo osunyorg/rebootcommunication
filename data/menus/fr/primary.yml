@@ -37,10 +37,22 @@ items:
       target: "/participer/ecoles/"
       kind: page
       children: []
+    - title: Participez à l'édition 2023
+      target: "/programme/"
+      kind: page
+      children: []
   - title: Enseignant·e
     target: ''
     kind: blank
     children:
+    - title: Trouvez des intervenant·e·s
+      target: https://annuaire.rebootcommunication.org
+      kind: url
+      children: []
+    - title: Impliquez votre école
+      target: "/participer/ecoles/"
+      kind: page
+      children: []
     - title: Trouvez des intervenant·e·s
       target: https://annuaire.rebootcommunication.org
       kind: url
