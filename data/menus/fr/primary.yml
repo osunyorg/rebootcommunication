@@ -37,10 +37,6 @@ items:
       target: "/participer/ecoles/"
       kind: page
       children: []
-    - title: Partenaires
-      target: "/participer/partenaires/"
-      kind: page
-      children: []
   - title: Enseignant·e
     target: ''
     kind: blank
@@ -52,7 +48,11 @@ items:
   - title: Professionnel·le
     target: ''
     kind: blank
-    children: []
+    children:
+    - title: Partenaires
+      target: "/participer/partenaires/"
+      kind: page
+      children: []
 - title: Éditions précédentes
   target: ''
   kind: blank
