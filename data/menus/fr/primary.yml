@@ -45,6 +45,10 @@ items:
       target: https://annuaire.rebootcommunication.org
       kind: url
       children: []
+    - title: Impliquez votre école
+      target: "/participer/ecoles/"
+      kind: page
+      children: []
   - title: Professionnel·le
     target: ''
     kind: blank
