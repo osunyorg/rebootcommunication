@@ -12,6 +12,11 @@ footer#document-footer
     nav[role=navigation]
         display: none
 
+.menu 
+    @media (min-width: 992px)
+        .nav-level-2
+            grid-template-columns: repeat(3, 1fr)
+
 .menu .nav-level-2 > li > a,
 .menu .nav-level-2 > li span
     padding: 0
