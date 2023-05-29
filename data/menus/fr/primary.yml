@@ -29,17 +29,17 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Apprenez par vous-même
-      target: https://ressources.rebootcommunication.org
-      kind: url
+    - title: Participez à l'édition 2023
+      target: "/programme/"
+      kind: page
       children: []
     - title: Impliquez votre école
       target: "/participer/ecoles/"
       kind: page
       children: []
-    - title: Participez à l'édition 2023
-      target: "/programme/"
-      kind: page
+    - title: Apprenez par vous-même
+      target: https://ressources.rebootcommunication.org
+      kind: url
       children: []
   - title: Enseignant·e
     target: ''
