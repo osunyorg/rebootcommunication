@@ -33,14 +33,14 @@ items:
       target: https://ressources.rebootcommunication.org
       kind: url
       children: []
-  - title: Écoles
-    target: "/participer/ecoles/"
-    kind: page
-    children: []
-  - title: Partenaires
-    target: "/participer/partenaires/"
-    kind: page
-    children: []
+    - title: Écoles
+      target: "/participer/ecoles/"
+      kind: page
+      children: []
+    - title: Partenaires
+      target: "/participer/partenaires/"
+      kind: page
+      children: []
   - title: Annuaire
     target: https://annuaire.rebootcommunication.org
     kind: url
