@@ -49,6 +49,10 @@ items:
     target: ''
     kind: blank
     children: []
+  - title: Professionnel·le
+    target: ''
+    kind: blank
+    children: []
 - title: Éditions précédentes
   target: ''
   kind: blank
