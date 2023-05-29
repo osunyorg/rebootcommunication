@@ -49,7 +49,7 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Partenaires
+    - title: Devenez partenaire
       target: "/participer/partenaires/"
       kind: page
       children: []
