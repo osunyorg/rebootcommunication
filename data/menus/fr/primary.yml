@@ -33,7 +33,7 @@ items:
       target: https://ressources.rebootcommunication.org
       kind: url
       children: []
-    - title: Écoles
+    - title: Impliquez votre école
       target: "/participer/ecoles/"
       kind: page
       children: []
