@@ -49,13 +49,13 @@ items:
       target: "/programme/"
       kind: page
       children: []
-    - title: Trouvez des intervenant·e·s
-      target: https://annuaire.rebootcommunication.org
-      kind: url
-      children: []
     - title: Impliquez votre école
       target: "/participer/ecoles/"
       kind: page
+      children: []
+    - title: Trouvez des intervenant·e·s
+      target: https://annuaire.rebootcommunication.org
+      kind: url
       children: []
   - title: Professionnel·le
     target: ''
