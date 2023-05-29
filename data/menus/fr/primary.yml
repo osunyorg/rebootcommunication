@@ -49,6 +49,10 @@ items:
       target: "/participer/ecoles/"
       kind: page
       children: []
+    - title: Trouvez des intervenant·e·s
+      target: https://annuaire.rebootcommunication.org
+      kind: url
+      children: []
   - title: Professionnel·le
     target: ''
     kind: blank
