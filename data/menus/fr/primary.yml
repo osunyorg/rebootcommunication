@@ -69,6 +69,10 @@ items:
       target: https://annuaire.rebootcommunication.org
       kind: url
       children: []
+    - title: Encadrez le hackathon
+      target: "/programme/hackathon-2023/"
+      kind: page
+      children: []
 - title: Éditions précédentes
   target: ''
   kind: blank
