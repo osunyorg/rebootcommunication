@@ -53,6 +53,10 @@ items:
       target: "/participer/partenaires/"
       kind: page
       children: []
+    - title: Enseignez dans les écoles
+      target: https://annuaire.rebootcommunication.org
+      kind: url
+      children: []
 - title: Éditions précédentes
   target: ''
   kind: blank
