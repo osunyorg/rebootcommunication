@@ -41,14 +41,14 @@ items:
       target: "/participer/partenaires/"
       kind: page
       children: []
+  - title: Enseignant·e
+    target: ''
+    kind: blank
+    children:
     - title: Annuaire
       target: https://annuaire.rebootcommunication.org
       kind: url
       children: []
-  - title: Enseignant·e
-    target: ''
-    kind: blank
-    children: []
   - title: Professionnel·le
     target: ''
     kind: blank
