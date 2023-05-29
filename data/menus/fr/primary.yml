@@ -53,9 +53,9 @@ items:
       target: "/participer/ecoles/"
       kind: page
       children: []
-    - title: Trouvez des intervenant·e·s
-      target: https://annuaire.rebootcommunication.org
-      kind: url
+    - title: Participez à l'édition 2023
+      target: "/programme/"
+      kind: page
       children: []
   - title: Professionnel·le
     target: ''
