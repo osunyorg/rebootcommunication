@@ -1,10 +1,6 @@
 ---
 title: Social
 items:
-- title: Reboot 2021
-  target: https://www.reboot2021.org
-  kind: url
-  children: []
 - title: Instagram
   target: https://instagram.com/rebootcommunication
   kind: url
