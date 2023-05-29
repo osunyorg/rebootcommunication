@@ -37,6 +37,10 @@ items:
       target: "/participer/ecoles/"
       kind: page
       children: []
+    - title: Participez à l'édition 2023
+      target: "/programme/"
+      kind: page
+      children: []
   - title: Enseignant·e
     target: ''
     kind: blank
