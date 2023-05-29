@@ -45,7 +45,7 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Annuaire
+    - title: Trouvez des intervenant·e·s
       target: https://annuaire.rebootcommunication.org
       kind: url
       children: []
