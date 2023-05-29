@@ -25,6 +25,10 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Étudiant·e
+    target: ''
+    kind: blank
+    children: []
   - title: Écoles
     target: "/participer/ecoles/"
     kind: page
@@ -40,10 +44,6 @@ items:
   - title: Ressources
     target: https://ressources.rebootcommunication.org
     kind: url
-    children: []
-  - title: Étudiant·e
-    target: ''
-    kind: blank
     children: []
 - title: Éditions précédentes
   target: ''
