@@ -29,7 +29,7 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Ressources
+    - title: Apprenez par vous-même
       target: https://ressources.rebootcommunication.org
       kind: url
       children: []
