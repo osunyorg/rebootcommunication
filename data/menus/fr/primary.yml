@@ -41,6 +41,10 @@ items:
     target: https://ressources.rebootcommunication.org
     kind: url
     children: []
+  - title: Étudiant·e
+    target: ''
+    kind: blank
+    children: []
 - title: Éditions précédentes
   target: ''
   kind: blank
