@@ -12,7 +12,11 @@ items:
   - title: Jour 1 - Fondamentaux
     target: "/programme/jour-1-lundi-13-novembre-2023/"
     kind: page
-    children: []
+    children:
+    - title: Fondamentaux de la communication responsable
+      target: "/programme/jour-1-lundi-13-novembre-2023/"
+      kind: page
+      children: []
   - title: Jours 2, 3, 4 - Hackathon
     target: "/programme/hackathon-2023/"
     kind: page
@@ -90,11 +94,11 @@ items:
   kind: blank
   children:
   - title: À propos
-    target: "/en-savoir-plus/a-propos/"
+    target: "/en-savoir-plus/concept/"
     kind: page
     children: []
   - title: Qui sommes-nous ?
-    target: "/en-savoir-plus/qui-sommes-nous/"
+    target: "/en-savoir-plus/equipe-1/"
     kind: page
     children: []
 
