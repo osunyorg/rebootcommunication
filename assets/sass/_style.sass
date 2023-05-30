@@ -25,16 +25,11 @@ footer#document-footer
     background-image: url(/assets/images/illustrations/dark.svg)
     background-position: top right
     background-repeat: no-repeat
-    background-size: contain
-    @include media-breakpoint-up(md)
-        padding-right: col(4)
+    background-size: 600px
+    @include media-breakpoint-down(xl)
+        background-size: 400px
     @include media-breakpoint-down(lg)
-        background-size: 40%
-    @include media-breakpoint-down(md)
-        background-size: 70%
         padding-top: 300px
-    @include media-breakpoint-down(sm)
-        background-size: 100%
 
 .organization .media
     padding: 0
