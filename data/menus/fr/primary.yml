@@ -5,24 +5,36 @@ items:
   target: "/"
   kind: page
   children: []
-- title: Programme
-  target: "/programme/"
+- title: Programme 2023
+  target: "/programme-2023/"
   kind: page
   children:
   - title: Jour 1 - Fondamentaux
-    target: "/programme/jour-1-lundi-13-novembre-2023/"
+    target: "/programme-2023/jour-1-lundi-13-novembre-2023/"
     kind: page
     children:
     - title: Loading, lancement de l’édition 2023
-      target: "/programme/jour-1-lundi-13-novembre-2023/loading-lancement-edition-2023/"
+      target: "/programme-2023/jour-1-lundi-13-novembre-2023/loading-lancement-edition-2023/"
+      kind: page
+      children: []
+    - title: Cours de communication responsable, l’essentiel en 1h30
+      target: "/programme-2023/jour-1-lundi-13-novembre-2023/cours-communication-responsable-2023/"
       kind: page
       children: []
   - title: Jours 2, 3, 4 - Hackathon
-    target: "/programme/hackathon-2023/"
+    target: "/programme-2023/hackathon-2023/"
     kind: page
-    children: []
+    children:
+    - title: Règles du jeu
+      target: "/programme-2023/hackathon-2023/regles-du-jeu/"
+      kind: page
+      children: []
+    - title: Jury et prix
+      target: "/programme-2023/hackathon-2023/jury-et-prix/"
+      kind: page
+      children: []
   - title: Jour 5 - Conférences et remise des prix
-    target: "/programme/jour-5-vendredi-17-novembre-2023/"
+    target: "/programme-2023/jour-5-vendredi-17-novembre-2023/"
     kind: page
     children: []
 - title: Participer
@@ -34,7 +46,7 @@ items:
     kind: blank
     children:
     - title: Participez à l'édition 2023
-      target: "/programme/"
+      target: "/programme-2023/"
       kind: page
       children: []
     - title: Impliquez votre école
@@ -50,7 +62,7 @@ items:
     kind: blank
     children:
     - title: Participez à l'édition 2023
-      target: "/programme/"
+      target: "/programme-2023/"
       kind: page
       children: []
     - title: Impliquez votre école
@@ -74,7 +86,7 @@ items:
       kind: url
       children: []
     - title: Encadrez le hackathon
-      target: "/programme/hackathon-2023/"
+      target: "/programme-2023/hackathon-2023/regles-du-jeu/"
       kind: page
       children: []
 - title: Éditions précédentes
