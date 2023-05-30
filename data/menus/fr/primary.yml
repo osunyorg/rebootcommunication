@@ -13,8 +13,8 @@ items:
     target: "/programme/jour-1-lundi-13-novembre-2023/"
     kind: page
     children:
-    - title: Fondamentaux de la communication responsable
-      target: "/programme/jour-1-lundi-13-novembre-2023/"
+    - title: Loading, lancement de l’édition 2023
+      target: "/programme/jour-1-lundi-13-novembre-2023/loading-lancement-edition-2023/"
       kind: page
       children: []
   - title: Jours 2, 3, 4 - Hackathon
