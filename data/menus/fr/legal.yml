@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Équipe
-  target: "/en-savoir-plus/qui-sommes-nous/"
+  target: "/en-savoir-plus/equipe-1/"
   kind: page
   children: []
 - title: Mentions légales
