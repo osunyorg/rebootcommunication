@@ -122,7 +122,7 @@ items:
     kind: page
     children: []
   - title: Qui sommes-nous ?
-    target: "/en-savoir-plus/equipe-1/"
+    target: "/en-savoir-plus/qui-sommes-nous/"
     kind: page
     children: []
 
