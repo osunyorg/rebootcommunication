@@ -57,6 +57,11 @@ items:
       target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/communautes-ethiques-s-organiser-pour-ne-plus-nuire/"
       kind: page
       children: []
+    - title: 'IA et création : les DA et les CR peuvent-ils pointer à Pôle Emploi
+        ?'
+      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi/"
+      kind: page
+      children: []
 - title: Participer
   target: ''
   kind: blank
