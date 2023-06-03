@@ -48,7 +48,11 @@ items:
   - title: Jour 5 - Conférences et remise des prix
     target: "/programme-2023/jour-5-vendredi-17-novembre-2023/"
     kind: page
-    children: []
+    children:
+    - title: 'Communication post-croissance : les coopératives de la com'''
+      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com/"
+      kind: page
+      children: []
 - title: Participer
   target: ''
   kind: blank
