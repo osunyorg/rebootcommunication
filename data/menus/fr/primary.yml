@@ -138,4 +138,8 @@ items:
     target: "/en-savoir-plus/qui-sommes-nous/"
     kind: page
     children: []
+  - title: Partenaires
+    target: "/participer/partenaires/"
+    kind: page
+    children: []
 
