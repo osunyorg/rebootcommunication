@@ -41,6 +41,10 @@ items:
       target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-numerique-responsable/"
       kind: page
       children: []
+    - title: Conférence de clôture
+      target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-conference-de-cloture/"
+      kind: page
+      children: []
   - title: Jours 2, 3, 4 - Hackathon
     target: "/programme-2023/hackathon-2023/"
     kind: page
