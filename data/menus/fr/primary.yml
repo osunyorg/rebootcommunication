@@ -37,6 +37,10 @@ items:
       target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-greenwashing-busting/"
       kind: page
       children: []
+    - title: Numérique responsable
+      target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-numerique-responsable/"
+      kind: page
+      children: []
   - title: Jours 2, 3, 4 - Hackathon
     target: "/programme-2023/hackathon-2023/"
     kind: page
