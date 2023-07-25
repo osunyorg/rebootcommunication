@@ -1,2 +1,14 @@
 title: >
   Reboot !
+external_domains:
+  - "osuny-1b4da.kxcdn.com"
+  - "demo.osuny.org"
+  - "osuny.s3.fr-par.scw.cloud"
+  - "plausible.io"
+  - "youtu.be"
+  - "www.youtube.com"
+  - "vimeo.com"
+  - "player.twitch.tv"
+  - "www.twitch.tv"
+  - "w.soundcloud.com"
+  - "soundcloud.com"
