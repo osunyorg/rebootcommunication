@@ -65,6 +65,10 @@ items:
     target: "/programme-2023/jour-5-vendredi-17-novembre-2023/"
     kind: page
     children:
+    - title: Sciences et communication
+      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication/"
+      kind: page
+      children: []
     - title: 'Communication post-croissance : les coopératives de la com'''
       target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com/"
       kind: page
@@ -80,10 +84,6 @@ items:
     - title: 'IA et création : les DA et les CR peuvent-ils pointer à Pôle Emploi
         ?'
       target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi/"
-      kind: page
-      children: []
-    - title: Sciences et communication
-      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication/"
       kind: page
       children: []
 - title: Participer
