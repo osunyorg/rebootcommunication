@@ -65,12 +65,12 @@ items:
     target: "/programme-2023/jour-5-vendredi-17-novembre-2023/"
     kind: page
     children:
-    - title: Sciences et communication
-      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication/"
-      kind: page
-      children: []
     - title: 'Communication post-croissance : les coopératives de la com'''
       target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com/"
+      kind: page
+      children: []
+    - title: Sciences et communication
+      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication/"
       kind: page
       children: []
     - title: Expériences immersives et empreinte environnementale
