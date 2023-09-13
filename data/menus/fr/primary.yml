@@ -146,7 +146,7 @@ items:
       target: "/participer/ecoles/"
       kind: page
       children: []
-    - title: Trouvez des intervenant·e·s
+    - title: Trouvez des intervenant·e·s (annuaire Reboot!)
       target: https://annuaire.rebootcommunication.org
       kind: url
       children: []
