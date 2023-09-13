@@ -65,10 +65,6 @@ items:
     target: "/programme-2023/jour-5-vendredi-17-novembre-2023/"
     kind: page
     children:
-    - title: Remise des prix
-      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix/"
-      kind: page
-      children: []
     - title: Canal 01
       target: ''
       kind: blank
@@ -91,6 +87,10 @@ items:
         children: []
       - title: 'Communication politique : peut-on gagner avec une campagne éthique ?'
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-politique-peut-on-gagner-avec-une-campagne-ethique/"
+        kind: page
+        children: []
+      - title: Remise des prix
+        target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix/"
         kind: page
         children: []
     - title: Canal 02
