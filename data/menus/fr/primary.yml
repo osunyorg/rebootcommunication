@@ -134,7 +134,7 @@ items:
       target: https://ressources.rebootcommunication.org
       kind: url
       children: []
-  - title: Enseignant·e
+  - title: Je fais partie d'une équipe pédagogique
     target: ''
     kind: blank
     children:
