@@ -65,10 +65,6 @@ items:
     target: "/programme-2023/jour-5-vendredi-17-novembre-2023/"
     kind: page
     children:
-    - title: 'Productions responsables : print, numérique, vidéo'
-      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video/"
-      kind: page
-      children: []
     - title: 'Communication post-croissance : les coopératives de la com'''
       target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com/"
       kind: page
@@ -110,6 +106,10 @@ items:
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-democratie-mode-d-emploi/"
         kind: page
         children: []
+    - title: 'Productions responsables : print, numérique, vidéo'
+      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video/"
+      kind: page
+      children: []
     - title: Canal 02
       target: ''
       kind: blank
