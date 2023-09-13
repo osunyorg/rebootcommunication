@@ -150,7 +150,7 @@ items:
       target: https://annuaire.rebootcommunication.org
       kind: url
       children: []
-  - title: Professionnel·le
+  - title: Je suis un·e pro
     target: ''
     kind: blank
     children:
