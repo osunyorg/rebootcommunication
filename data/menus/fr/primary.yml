@@ -98,6 +98,10 @@ items:
       target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix/"
       kind: page
       children: []
+    - title: 'Productions responsables : print, numérique, vidéo'
+      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video/"
+      kind: page
+      children: []
 - title: Participer
   target: ''
   kind: blank
