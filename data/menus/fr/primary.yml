@@ -97,7 +97,7 @@ items:
       target: ''
       kind: blank
       children:
-      - title: 'Productions responsables : print, numérique, vidéo'
+      - title: '09h • Productions responsables : print, numérique, vidéo'
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video/"
         kind: page
         children: []
