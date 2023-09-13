@@ -110,6 +110,10 @@ items:
       target: ''
       kind: blank
       children: []
+    - title: Canal 02
+      target: ''
+      kind: blank
+      children: []
 - title: Participer
   target: ''
   kind: blank
