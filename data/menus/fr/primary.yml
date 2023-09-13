@@ -118,7 +118,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Étudiant·e
+  - title: Je suis étudiant·e
     target: ''
     kind: blank
     children:
