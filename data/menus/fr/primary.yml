@@ -65,7 +65,7 @@ items:
     target: "/programme-2023/jour-5-vendredi-17-novembre-2023/"
     kind: page
     children:
-    - title: "—— Canal 01"
+    - title: "— Canal 01"
       target: ''
       kind: blank
       children:
