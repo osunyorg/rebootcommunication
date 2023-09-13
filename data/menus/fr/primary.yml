@@ -86,6 +86,10 @@ items:
       target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi/"
       kind: page
       children: []
+    - title: 'Communication politique : peut-on gagner avec une campagne éthique ?'
+      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-politique-peut-on-gagner-avec-une-campagne-ethique/"
+      kind: page
+      children: []
 - title: Participer
   target: ''
   kind: blank
