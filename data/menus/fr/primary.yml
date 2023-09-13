@@ -94,6 +94,10 @@ items:
       target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix/"
       kind: page
       children: []
+    - title: Choisir ses clients, choisir ses agences ?
+      target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/choisir-ses-clients-choisir-ses-agences/"
+      kind: page
+      children: []
 - title: Participer
   target: ''
   kind: blank
