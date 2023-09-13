@@ -142,7 +142,7 @@ items:
       target: "/programme-2023/"
       kind: page
       children: []
-    - title: Impliquez votre école
+    - title: Voir les écoles participantes
       target: "/participer/ecoles/"
       kind: page
       children: []
