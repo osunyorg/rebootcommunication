@@ -138,8 +138,8 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Participez à l'édition 2023
-      target: "/programme-2023/"
+    - title: Inscrivez votre école à l'édition 2023
+      target: "/comment-inscrire-mon-ecole/"
       kind: page
       children: []
     - title: Voir les écoles participantes
