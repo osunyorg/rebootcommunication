@@ -122,7 +122,7 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Participez à l'édition 2023
+    - title: Découvrez le programme 2023
       target: "/programme-2023/"
       kind: page
       children: []
