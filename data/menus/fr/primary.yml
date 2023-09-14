@@ -142,7 +142,7 @@ items:
       target: "/comment-inscrire-mon-ecole/"
       kind: page
       children: []
-    - title: Voir les écoles participantes
+    - title: Découvrez les écoles participantes
       target: "/participer/ecoles/"
       kind: page
       children: []
