@@ -8,4 +8,4 @@ params:
   summary:
     position: hero
   search:
-    active: false
+    active: true
