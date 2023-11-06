@@ -49,6 +49,10 @@ items:
     target: "/programme-2023/hackathon-2023/"
     kind: page
     children:
+    - title: 'Thème 2023 : Ralentir ou périr'
+      target: "/programme-2023/hackathon-2023/theme-2023-ralentir-ou-perir/"
+      kind: page
+      children: []
     - title: Règles du jeu
       target: "/programme-2023/hackathon-2023/regles-du-jeu/"
       kind: page
