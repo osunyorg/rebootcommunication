@@ -49,13 +49,14 @@ contents:
     title: >-
       En bref
     position: 0
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 0
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -78,7 +79,8 @@ contents:
     title: >-
       Suivre l'événement en direct
     position: 1
-    heading_level: 3
+    ranks:
+      self: 3
     data:
       text: >-
         <p>Accédez aux diffusions en direct sur notre site en cliquant sur la conférence de votre choix. Vous pouvez aussi nous retrouver sur Twitch.</p>
@@ -114,13 +116,15 @@ contents:
     title: >-
       Canal 01 — « Stratégie, récits, économie, information »
     position: 1
-    level: 2
+    rank: 2
   - kind: block
     template: pages
     title: >-
       Chaîne Reboot 01
     position: 0
-    heading_level: 3
+    ranks:
+      self: 3
+      children: 4
     data:
       show_main_description: false
       show_descriptions: true
@@ -158,13 +162,15 @@ contents:
     title: >-
       Canal 02 — « Création, numérique, production »
     position: 2
-    level: 2
+    rank: 2
   - kind: block
     template: pages
     title: >-
       Chaîne Reboot 02
     position: 0
-    heading_level: 3
+    ranks:
+      self: 3
+      children: 4
     data:
       show_main_description: false
       show_descriptions: true
@@ -194,13 +200,14 @@ contents:
     title: >-
       Accessibilité LSF/vélotypie
     position: 3
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 0
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -223,7 +230,9 @@ contents:
     title: >-
       Et les jours précédents ?
     position: 1
-    heading_level: 3
+    ranks:
+      self: 3
+      children: 4
     data:
       show_main_description: false
       show_descriptions: true
@@ -245,7 +254,8 @@ contents:
     title: >-
       
     position: 3
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-

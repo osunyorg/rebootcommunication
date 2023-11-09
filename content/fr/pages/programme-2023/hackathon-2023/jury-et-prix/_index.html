@@ -49,13 +49,14 @@ contents:
     title: >-
       Liste des prix
     position: 0
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 1
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -78,7 +79,9 @@ contents:
     title: >-
       En savoir plus
     position: 13
-    heading_level: 3
+    ranks:
+      self: 3
+      children: 4
     data:
       show_main_description: false
       show_descriptions: true
@@ -100,13 +103,14 @@ contents:
     title: >-
       Composition du jury
     position: 1
-    level: 2
+    rank: 2
   - kind: block
     template: persons
     title: >-
       
     position: 14
-    heading_level: 3
+    ranks:
+      self: false
     data:
       description: >-
         <p>Liste à venir</p>

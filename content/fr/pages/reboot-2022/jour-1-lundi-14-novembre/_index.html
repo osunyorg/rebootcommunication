@@ -53,13 +53,14 @@ contents:
     title: >-
       Résumé
     position: 0
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 1
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -82,7 +83,9 @@ contents:
     title: >-
       Programme
     position: 3
-    heading_level: 3
+    ranks:
+      self: 3
+      children: 4
     data:
       show_main_description: false
       show_descriptions: true
@@ -128,7 +131,9 @@ contents:
     title: >-
       Et les jours suivants ?
     position: 5
-    heading_level: 3
+    ranks:
+      self: 3
+      children: 4
     data:
       show_main_description: false
       show_descriptions: true
@@ -150,13 +155,14 @@ contents:
     title: >-
       Accessibilité LSF/vélotypie
     position: 1
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 6
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
