@@ -15,4 +15,6 @@ external_domains:
   - "vumbnail.com"
   - "w.soundcloud.com"
   - "soundcloud.com"
+  - "player.twitch.tv"
+  - "www.twitch.tv"
 social:
