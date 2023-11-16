@@ -15,7 +15,6 @@ header#document-header
             @include media-breakpoint-down(md)
                 margin-top: -7px
 
-
 .hero
     background-image: url(/assets/images/illustrations/dark.svg)
     background-position: top right
@@ -35,9 +34,14 @@ header#document-header
 .nav-search
     .search__close
         color: $color-text
+
 #search 
     .pagefind-ui
         &__search-input
             background: none
             border-bottom-color: $color-text
             color: $color-text
+
+.page__home
+    h1
+        max-width: 900px
