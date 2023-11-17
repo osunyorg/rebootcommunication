@@ -73,6 +73,10 @@ items:
       target: "/programme-2023/hackathon-2023/prix-reboot-creativite-2023/"
       kind: page
       children: []
+    - title: Prix Reboot Inclusion 2023
+      target: "/programme-2023/hackathon-2023/prix-reboot-inclusion-2023/"
+      kind: page
+      children: []
   - title: Jour 5 - Conférences et remise des prix
     target: "/programme-2023/jour-5-vendredi-17-novembre-2023/"
     kind: page
