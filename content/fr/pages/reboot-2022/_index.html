@@ -52,19 +52,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 6
+  seconds: 10
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Chiffres clés
-    slug: "chiffres-cles"
-    position: 1
-    rank: 2
+    slug: >-
+      chiffres-cles
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: key_figures
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -151,6 +159,8 @@ contents:
     template: pages
     title: >-
       Fondamentaux de la communication responsable
+    slug: >-
+      fondamentaux-de-la-communication-responsable
     ranks:
       self: 3
       children: 4
@@ -204,6 +214,8 @@ contents:
     template: pages
     title: >-
       Hackathon
+    slug: >-
+      hackathon
     ranks:
       self: 3
       children: 4
@@ -233,6 +245,8 @@ contents:
     template: pages
     title: >-
       Débats et remise des prix du Hackathon
+    slug: >-
+      debats-et-remise-des-prix-du-hackathon
     ranks:
       self: 3
       children: 4
@@ -300,7 +314,6 @@ contents:
           slug: "remise-des-prix-du-hackathon-reboot"
           file: "pages/reboot-2022/jour-5-vendredi-18-novembre/remise-des-prix-du-hackathon-reboot/_index.html"
           external: false
-
 
 
 

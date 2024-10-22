@@ -56,7 +56,7 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 3
+  seconds: 4
   text: >-
     moins d'une minute
 contents:
@@ -64,6 +64,8 @@ contents:
     template: video
     title: >-
       Replay
+    slug: >-
+      replay
     ranks:
       self: 2
     data:
@@ -96,15 +98,23 @@ contents:
           <iframe class="youtube" loading="lazy" src="https://www.youtube.com/embed/p18o7r_nYMQ" title="Video"></iframe>
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Au micro...
-    slug: "au-micro"
-    position: 1
-    rank: 2
+    slug: >-
+      au-micro
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -129,6 +139,8 @@ contents:
     template: persons
     title: >-
       Modération
+    slug: >-
+      moderation
     ranks:
       self: 3
       children: 4
@@ -152,16 +164,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Informations pratiques
-    slug: "informations-pratiques"
-    position: 2
-    rank: 2
+    slug: >-
+      informations-pratiques
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: datatable
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -188,7 +207,6 @@ contents:
 
       caption: >-
         
-
 
 
 

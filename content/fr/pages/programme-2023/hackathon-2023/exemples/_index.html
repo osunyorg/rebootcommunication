@@ -58,15 +58,23 @@ contents_reading_time:
   text: >-
     2 minutes
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Nota bene ⚠️
-    slug: "nota-bene"
-    position: 1
-    rank: 2
+    slug: >-
+      nota-bene
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -87,16 +95,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Exemples de travaux
-    slug: "exemples-de-travaux"
-    position: 2
-    rank: 2
+    slug: >-
+      exemples-de-travaux
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -117,16 +132,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Exemple du déroulé du hackathon au sein d’une école
-    slug: "exemple-du-deroule-du-hackathon-au-sein-d-une-ecole"
-    position: 3
-    rank: 2
+    slug: >-
+      exemple-du-deroule-du-hackathon-au-sein-d-une-ecole
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: timeline
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -170,6 +192,8 @@ contents:
     template: pages
     title: >-
       En savoir plus
+    slug: >-
+      en-savoir-plus
     ranks:
       self: 3
       children: 4
@@ -189,7 +213,6 @@ contents:
           slug: "jury-et-prix"
           file: "pages/programme-2023/hackathon-2023/jury-et-prix/_index.html"
           external: false
-
 
 
 
