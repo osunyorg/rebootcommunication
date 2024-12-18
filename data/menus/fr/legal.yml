@@ -4,24 +4,28 @@ items:
 - title: Charte éthique
   target: "/charte-ethique/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/charte-ethique"
   file: content/fr/pages/charte-ethique/_index.html
 - title: Équipe
   target: "/en-savoir-plus/qui-sommes-nous/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/en-savoir-plus/qui-sommes-nous"
   file: content/fr/pages/en-savoir-plus/qui-sommes-nous/_index.html
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
 - title: Espace presse
   target: "/espace-presse/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/espace-presse"
   file: content/fr/pages/espace-presse/_index.html

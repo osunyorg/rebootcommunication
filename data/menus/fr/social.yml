@@ -4,21 +4,26 @@ items:
 - title: Instagram
   target: https://instagram.com/rebootcommunication
   kind: url
+  new_tab: true
   children: []
 - title: Twitter
   target: https://twitter.com/Reboot_com
   kind: url
+  new_tab: true
   children: []
 - title: LinkedIn
   target: https://www.linkedin.com/company/rebootcommunication
   kind: url
+  new_tab: true
   children: []
 - title: Youtube
   target: https://www.youtube.com/channel/UC2qNef7cRXY-bgM07K7aiTQ
   kind: url
+  new_tab: true
   children: []
 - title: Twitch
   target: https://www.twitch.tv/reboot_01
   kind: url
+  new_tab: true
   children: []
 
