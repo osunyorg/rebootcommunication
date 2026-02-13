@@ -2,28 +2,38 @@
 title: Social
 items:
 - title: Instagram
+  slug: instagram
   target: https://instagram.com/rebootcommunication
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Twitter
+  slug: twitter
   target: https://twitter.com/Reboot_com
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: LinkedIn
+  slug: linkedin
   target: https://www.linkedin.com/company/rebootcommunication
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Youtube
+  slug: youtube
   target: https://www.youtube.com/channel/UC2qNef7cRXY-bgM07K7aiTQ
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Twitch
+  slug: twitch
   target: https://www.twitch.tv/reboot_01
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

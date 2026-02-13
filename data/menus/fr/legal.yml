@@ -2,31 +2,39 @@
 title: Legal
 items:
 - title: Charte éthique
+  slug: charte-ethique
   target: "/charte-ethique/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/charte-ethique"
   file: content/fr/pages/charte-ethique/_index.html
 - title: Équipe
+  slug: equipe
   target: "/en-savoir-plus/qui-sommes-nous/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/en-savoir-plus/qui-sommes-nous"
   file: content/fr/pages/en-savoir-plus/qui-sommes-nous/_index.html
 - title: Mentions légales
+  slug: mentions-legales
   target: "/mentions-legales/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
 - title: Espace presse
+  slug: espace-presse
   target: "/espace-presse/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/espace-presse"
   file: content/fr/pages/espace-presse/_index.html
 

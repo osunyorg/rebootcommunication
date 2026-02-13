@@ -2,379 +2,594 @@
 title: Primary
 items:
 - title: Accueil
+  slug: accueil
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/"
   file: content/fr/_index.html
 - title: Participer
+  slug: participer
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: En tant qu'étudiant·e
+    slug: en-tant-qu-etudiant-e
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Découvrez le programme 2023
+      slug: decouvrez-le-programme-2023
       target: "/programme-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023"
       file: content/fr/pages/programme-2023/_index.html
     - title: Impliquez votre école
+      slug: impliquez-votre-ecole
       target: "/participer/ecoles/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/participer/ecoles"
       file: content/fr/pages/participer/ecoles/_index.html
     - title: Apprenez par vous-même
+      slug: apprenez-par-vous-meme
       target: https://ressources.rebootcommunication.org
       kind: url
       new_tab: true
       children: []
+      descendants_targets: []
+    descendants_targets:
+    - "/participer/ecoles/"
+    - "/programme-2023/"
+    - https://ressources.rebootcommunication.org
   - title: En tant qu'école
+    slug: en-tant-qu-ecole
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Inscrivez votre école à l'édition 2023
+      slug: inscrivez-votre-ecole-a-l-edition-2023
       target: "/comment-inscrire-mon-ecole/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/comment-inscrire-mon-ecole"
       file: content/fr/pages/comment-inscrire-mon-ecole/_index.html
     - title: Découvrez les écoles participantes
+      slug: decouvrez-les-ecoles-participantes
       target: "/participer/ecoles/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/participer/ecoles"
       file: content/fr/pages/participer/ecoles/_index.html
     - title: Trouvez des intervenant·e·s (annuaire Reboot!)
+      slug: trouvez-des-intervenant-e-s-annuaire-reboot
       target: https://annuaire.rebootcommunication.org
       kind: url
       new_tab: true
       children: []
+      descendants_targets: []
+    descendants_targets:
+    - "/comment-inscrire-mon-ecole/"
+    - "/participer/ecoles/"
+    - https://annuaire.rebootcommunication.org
   - title: En tant que pro
+    slug: en-tant-que-pro
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Devenez partenaire
+      slug: devenez-partenaire
       target: "/participer/partenaires/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/participer/partenaires"
       file: content/fr/pages/participer/partenaires/_index.html
     - title: Enseignez dans les écoles
+      slug: enseignez-dans-les-ecoles
       target: https://annuaire.rebootcommunication.org
       kind: url
       new_tab: true
       children: []
+      descendants_targets: []
     - title: Encadrez le hackathon
+      slug: encadrez-le-hackathon
       target: "/programme-2023/hackathon-2023/regles-du-jeu/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/regles-du-jeu"
       file: content/fr/pages/programme-2023/hackathon-2023/regles-du-jeu/_index.html
+    descendants_targets:
+    - "/participer/partenaires/"
+    - "/programme-2023/hackathon-2023/regles-du-jeu/"
+    - https://annuaire.rebootcommunication.org
+  descendants_targets:
+  - ''
+  - "/comment-inscrire-mon-ecole/"
+  - "/participer/ecoles/"
+  - "/participer/partenaires/"
+  - "/programme-2023/"
+  - "/programme-2023/hackathon-2023/regles-du-jeu/"
+  - https://annuaire.rebootcommunication.org
+  - https://ressources.rebootcommunication.org
 - title: Reboot 2023
+  slug: reboot-2023
   target: "/programme-2023/"
   kind: page
   new_tab: false
   children:
   - title: Jour 1 - Fondamentaux
+    slug: jour-1-fondamentaux
     target: "/programme-2023/jour-1-lundi-13-novembre-2023/"
     kind: page
     new_tab: false
     children:
     - title: '09h30 • Loading, lancement de l’édition 2023'
+      slug: '09h30-loading-lancement-de-l-edition-2023'
       target: "/programme-2023/jour-1-lundi-13-novembre-2023/loading-lancement-edition-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/jour-1-lundi-13-novembre-2023/loading-lancement-edition-2023"
       file: content/fr/pages/programme-2023/jour-1-lundi-13-novembre-2023/loading-lancement-edition-2023/_index.html
     - title: 10h • Pitch Climat, un atelier pour comprendre
+      slug: 10h-pitch-climat-un-atelier-pour-comprendre
       target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-pitch-climat-un-atelier-pour-comprendre/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-pitch-climat-un-atelier-pour-comprendre"
       file: content/fr/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-pitch-climat-un-atelier-pour-comprendre/_index.html
     - title: 11h30 • Les “Objectifs de Développement Durable”
+      slug: 11h30-les-objectifs-de-developpement-durable
       target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-les-objectifs-de-developpement-durable/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-les-objectifs-de-developpement-durable"
       file: content/fr/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-les-objectifs-de-developpement-durable/_index.html
     - title: 14h • Cours de communication responsable, l’essentiel en 1h30
+      slug: 14h-cours-de-communication-responsable-l-essentiel-en-1h30
       target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-cours-communication-responsable/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-cours-communication-responsable"
       file: content/fr/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-cours-communication-responsable/_index.html
     - title: 15h30 • Greenwashing busting
+      slug: 15h30-greenwashing-busting
       target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-greenwashing-busting/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-greenwashing-busting"
       file: content/fr/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-greenwashing-busting/_index.html
     - title: 16h30 • Les responsabilités du numérique
+      slug: 16h30-les-responsabilites-du-numerique
       target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-numerique-responsable/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-numerique-responsable"
       file: content/fr/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-numerique-responsable/_index.html
     - title: 17h15 • Conférence de clôture
+      slug: 17h15-conference-de-cloture
       target: "/programme-2023/jour-1-lundi-13-novembre-2023/2023-conference-de-cloture/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-conference-de-cloture"
       file: content/fr/pages/programme-2023/jour-1-lundi-13-novembre-2023/2023-conference-de-cloture/_index.html
+    descendants_targets:
+    - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-conference-de-cloture/"
+    - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-cours-communication-responsable/"
+    - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-greenwashing-busting/"
+    - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-les-objectifs-de-developpement-durable/"
+    - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-numerique-responsable/"
+    - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-pitch-climat-un-atelier-pour-comprendre/"
+    - "/programme-2023/jour-1-lundi-13-novembre-2023/loading-lancement-edition-2023/"
     path: "/pages/programme-2023/jour-1-lundi-13-novembre-2023"
     file: content/fr/pages/programme-2023/jour-1-lundi-13-novembre-2023/_index.html
   - title: Jours 2, 3, 4 - Hackathon
+    slug: jours-2-3-4-hackathon
     target: "/programme-2023/hackathon-2023/"
     kind: page
     new_tab: false
     children:
     - title: 'Thème 2023 : Ralentir ou périr'
+      slug: theme-2023-ralentir-ou-perir
       target: "/programme-2023/hackathon-2023/ralentir-ou-perir/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/ralentir-ou-perir"
       file: content/fr/pages/programme-2023/hackathon-2023/ralentir-ou-perir/_index.html
     - title: Règles du jeu
+      slug: regles-du-jeu
       target: "/programme-2023/hackathon-2023/regles-du-jeu/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/regles-du-jeu"
       file: content/fr/pages/programme-2023/hackathon-2023/regles-du-jeu/_index.html
     - title: Jury et prix
+      slug: jury-et-prix
       target: "/programme-2023/hackathon-2023/jury-et-prix/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/jury-et-prix"
       file: content/fr/pages/programme-2023/hackathon-2023/jury-et-prix/_index.html
     - title: Exemples
+      slug: exemples
       target: "/programme-2023/hackathon-2023/exemples/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/exemples"
       file: content/fr/pages/programme-2023/hackathon-2023/exemples/_index.html
     - title: Prix Reboot Communication responsable 2023
+      slug: prix-reboot-communication-responsable-2023
       target: "/programme-2023/hackathon-2023/prix-reboot-communication-responsable-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/prix-reboot-communication-responsable-2023"
       file: content/fr/pages/programme-2023/hackathon-2023/prix-reboot-communication-responsable-2023/_index.html
     - title: Prix Reboot Numérique responsable 2023
+      slug: prix-reboot-numerique-responsable-2023
       target: "/programme-2023/hackathon-2023/prix-reboot-numerique-responsable-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/prix-reboot-numerique-responsable-2023"
       file: content/fr/pages/programme-2023/hackathon-2023/prix-reboot-numerique-responsable-2023/_index.html
     - title: Prix Reboot Créativité 2023
+      slug: prix-reboot-creativite-2023
       target: "/programme-2023/hackathon-2023/prix-reboot-creativite-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/prix-reboot-creativite-2023"
       file: content/fr/pages/programme-2023/hackathon-2023/prix-reboot-creativite-2023/_index.html
     - title: Prix Reboot Inclusion 2023
+      slug: prix-reboot-inclusion-2023
       target: "/programme-2023/hackathon-2023/prix-reboot-inclusion-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/prix-reboot-inclusion-2023"
       file: content/fr/pages/programme-2023/hackathon-2023/prix-reboot-inclusion-2023/_index.html
     - title: Prix Reboot Solidarité 2023
+      slug: prix-reboot-solidarite-2023
       target: "/programme-2023/hackathon-2023/prix-reboot-solidarite-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/prix-reboot-solidarite-2023"
       file: content/fr/pages/programme-2023/hackathon-2023/prix-reboot-solidarite-2023/_index.html
     - title: Prix Reboot Éco-conception 2023
+      slug: prix-reboot-eco-conception-2023
       target: "/programme-2023/hackathon-2023/prix-reboot-eco-conception-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/prix-reboot-eco-conception-2023"
       file: content/fr/pages/programme-2023/hackathon-2023/prix-reboot-eco-conception-2023/_index.html
     - title: Prix Reboot RSE 2023
+      slug: prix-reboot-rse-2023
       target: "/programme-2023/hackathon-2023/prix-reboot-rse-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/prix-reboot-rse-2023"
       file: content/fr/pages/programme-2023/hackathon-2023/prix-reboot-rse-2023/_index.html
     - title: Coups de cœur Reboot 2023
+      slug: coups-de-coeur-reboot-2023
       target: "/programme-2023/hackathon-2023/coups-de-coeur-reboot-2023/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/programme-2023/hackathon-2023/coups-de-coeur-reboot-2023"
       file: content/fr/pages/programme-2023/hackathon-2023/coups-de-coeur-reboot-2023/_index.html
+    descendants_targets:
+    - "/programme-2023/hackathon-2023/coups-de-coeur-reboot-2023/"
+    - "/programme-2023/hackathon-2023/exemples/"
+    - "/programme-2023/hackathon-2023/jury-et-prix/"
+    - "/programme-2023/hackathon-2023/prix-reboot-communication-responsable-2023/"
+    - "/programme-2023/hackathon-2023/prix-reboot-creativite-2023/"
+    - "/programme-2023/hackathon-2023/prix-reboot-eco-conception-2023/"
+    - "/programme-2023/hackathon-2023/prix-reboot-inclusion-2023/"
+    - "/programme-2023/hackathon-2023/prix-reboot-numerique-responsable-2023/"
+    - "/programme-2023/hackathon-2023/prix-reboot-rse-2023/"
+    - "/programme-2023/hackathon-2023/prix-reboot-solidarite-2023/"
+    - "/programme-2023/hackathon-2023/ralentir-ou-perir/"
+    - "/programme-2023/hackathon-2023/regles-du-jeu/"
     path: "/pages/programme-2023/hackathon-2023"
     file: content/fr/pages/programme-2023/hackathon-2023/_index.html
   - title: Jour 5 - Conférences et remise des prix
+    slug: jour-5-conferences-et-remise-des-prix
     target: "/programme-2023/jour-5-vendredi-17-novembre-2023/"
     kind: page
     new_tab: false
     children:
     - title: "— Canal 01"
+      slug: canal-01
       target: ''
       kind: blank
       new_tab: false
       children:
       - title: '09h • Communication, démocratie : mode d’emploi'
+        slug: '09h-communication-democratie-mode-d-emploi'
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-democratie-mode-d-emploi/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-democratie-mode-d-emploi"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-democratie-mode-d-emploi/_index.html
       - title: '10h • Communication post-croissance : les coopératives de la com'''
+        slug: 10h-communication-post-croissance-les-cooperatives-de-la-com
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com/_index.html
       - title: 11h15 • Sciences et communication
+        slug: 11h15-sciences-et-communication
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication/_index.html
       - title: 12h15 • Choisir ses clients, choisir ses agences ?
+        slug: 12h15-choisir-ses-clients-choisir-ses-agences
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/choisir-ses-clients-choisir-ses-agences/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/choisir-ses-clients-choisir-ses-agences"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/choisir-ses-clients-choisir-ses-agences/_index.html
       - title: '14h • Communication politique : peut-on gagner avec une campagne éthique ?'
+        slug: 14h-communication-politique-peut-on-gagner-avec-une-campagne-ethique
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-politique-peut-on-gagner-avec-une-campagne-ethique/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-politique-peut-on-gagner-avec-une-campagne-ethique"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-politique-peut-on-gagner-avec-une-campagne-ethique/_index.html
       - title: 15h • Remise des prix du Hackathon
+        slug: 15h-remise-des-prix-du-hackathon
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix/_index.html
+      descendants_targets:
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/choisir-ses-clients-choisir-ses-agences/"
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-democratie-mode-d-emploi/"
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-politique-peut-on-gagner-avec-une-campagne-ethique/"
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com/"
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix/"
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication/"
     - title: "— Canal 02"
+      slug: canal-02
       target: ''
       kind: blank
       new_tab: false
       children:
       - title: '09h • Productions responsables : print, numérique, vidéo'
+        slug: '09h-productions-responsables-print-numerique-video'
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video/_index.html
       - title: '10h • Nouveaux récits : raconter des futurs désirables'
+        slug: 10h-nouveaux-recits-raconter-des-futurs-desirables
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/10h-nouveaux-recits-raconter-des-futurs-desirables/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/10h-nouveaux-recits-raconter-des-futurs-desirables"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/10h-nouveaux-recits-raconter-des-futurs-desirables/_index.html
       - title: 11h15 • Expériences immersives et empreinte environnementale
+        slug: 11h15-experiences-immersives-et-empreinte-environnementale
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/experiences-immersives-et-empreinte-environnementale/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/experiences-immersives-et-empreinte-environnementale"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/experiences-immersives-et-empreinte-environnementale/_index.html
       - title: '12h15 • Communautés éthiques : s’organiser pour ne plus nuire'
+        slug: 12h15-communautes-ethiques-s-organiser-pour-ne-plus-nuire
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/communautes-ethiques-s-organiser-pour-ne-plus-nuire/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/communautes-ethiques-s-organiser-pour-ne-plus-nuire"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/communautes-ethiques-s-organiser-pour-ne-plus-nuire/_index.html
       - title: '14h • IA et création : les DA et les CR peuvent-ils pointer à Pôle
           Emploi ?'
+        slug: 14h-ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi
         target: "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi/"
         kind: page
         new_tab: false
         children: []
+        descendants_targets: []
         path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi"
         file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi/_index.html
+      descendants_targets:
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/10h-nouveaux-recits-raconter-des-futurs-desirables/"
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/communautes-ethiques-s-organiser-pour-ne-plus-nuire/"
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/experiences-immersives-et-empreinte-environnementale/"
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi/"
+      - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video/"
+    descendants_targets:
+    - ''
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/choisir-ses-clients-choisir-ses-agences/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-democratie-mode-d-emploi/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-politique-peut-on-gagner-avec-une-campagne-ethique/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/10h-nouveaux-recits-raconter-des-futurs-desirables/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/communautes-ethiques-s-organiser-pour-ne-plus-nuire/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/experiences-immersives-et-empreinte-environnementale/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi/"
+    - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video/"
     path: "/pages/programme-2023/jour-5-vendredi-17-novembre-2023"
     file: content/fr/pages/programme-2023/jour-5-vendredi-17-novembre-2023/_index.html
+  descendants_targets:
+  - ''
+  - "/programme-2023/hackathon-2023/"
+  - "/programme-2023/hackathon-2023/coups-de-coeur-reboot-2023/"
+  - "/programme-2023/hackathon-2023/exemples/"
+  - "/programme-2023/hackathon-2023/jury-et-prix/"
+  - "/programme-2023/hackathon-2023/prix-reboot-communication-responsable-2023/"
+  - "/programme-2023/hackathon-2023/prix-reboot-creativite-2023/"
+  - "/programme-2023/hackathon-2023/prix-reboot-eco-conception-2023/"
+  - "/programme-2023/hackathon-2023/prix-reboot-inclusion-2023/"
+  - "/programme-2023/hackathon-2023/prix-reboot-numerique-responsable-2023/"
+  - "/programme-2023/hackathon-2023/prix-reboot-rse-2023/"
+  - "/programme-2023/hackathon-2023/prix-reboot-solidarite-2023/"
+  - "/programme-2023/hackathon-2023/ralentir-ou-perir/"
+  - "/programme-2023/hackathon-2023/regles-du-jeu/"
+  - "/programme-2023/jour-1-lundi-13-novembre-2023/"
+  - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-conference-de-cloture/"
+  - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-cours-communication-responsable/"
+  - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-greenwashing-busting/"
+  - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-les-objectifs-de-developpement-durable/"
+  - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-numerique-responsable/"
+  - "/programme-2023/jour-1-lundi-13-novembre-2023/2023-pitch-climat-un-atelier-pour-comprendre/"
+  - "/programme-2023/jour-1-lundi-13-novembre-2023/loading-lancement-edition-2023/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/choisir-ses-clients-choisir-ses-agences/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-democratie-mode-d-emploi/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-politique-peut-on-gagner-avec-une-campagne-ethique/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/communication-post-croissance-les-cooperatives-de-la-com/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/remise-des-prix/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-1-strategie-recits-economie-information/sciences-et-communication/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/10h-nouveaux-recits-raconter-des-futurs-desirables/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/communautes-ethiques-s-organiser-pour-ne-plus-nuire/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/experiences-immersives-et-empreinte-environnementale/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/ia-et-creation-les-da-et-les-cr-peuvent-ils-pointer-a-pole-emploi/"
+  - "/programme-2023/jour-5-vendredi-17-novembre-2023/chaine-2-creation-numerique-production/productions-responsables-print-numerique-video/"
   path: "/pages/programme-2023"
   file: content/fr/pages/programme-2023/_index.html
 - title: En savoir plus
+  slug: en-savoir-plus
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: À propos
+    slug: a-propos
     target: "/en-savoir-plus/concept/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/en-savoir-plus/concept"
     file: content/fr/pages/en-savoir-plus/concept/_index.html
   - title: Qui sommes-nous ?
+    slug: qui-sommes-nous
     target: "/en-savoir-plus/qui-sommes-nous/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/en-savoir-plus/qui-sommes-nous"
     file: content/fr/pages/en-savoir-plus/qui-sommes-nous/_index.html
   - title: Partenaires
+    slug: partenaires
     target: "/participer/partenaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/participer/partenaires"
     file: content/fr/pages/participer/partenaires/_index.html
   - title: Éditions précédentes
+    slug: editions-precedentes
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Reboot 2022
+      slug: reboot-2022
       target: "/reboot-2022/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/reboot-2022"
       file: content/fr/pages/reboot-2022/_index.html
     - title: Reboot 2021
+      slug: reboot-2021
       target: https://2021.rebootcommunication.org
       kind: url
       new_tab: true
       children: []
+      descendants_targets: []
+    descendants_targets:
+    - "/reboot-2022/"
+    - https://2021.rebootcommunication.org
+  descendants_targets:
+  - ''
+  - "/en-savoir-plus/concept/"
+  - "/en-savoir-plus/qui-sommes-nous/"
+  - "/participer/partenaires/"
+  - "/reboot-2022/"
+  - https://2021.rebootcommunication.org
 
