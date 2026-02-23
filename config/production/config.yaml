@@ -7,6 +7,11 @@ osuny:
   website:
     id: 5d215dc1-12be-4df5-99d4-dfd2a1100090
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "rebootcommunication.org"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
