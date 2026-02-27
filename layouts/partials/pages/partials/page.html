@@ -13,13 +13,13 @@
   <div>
     {{- partial "PrepareHTML" (printf "<%s class='title'>" $heading) -}}
       <a href="{{ .Permalink }}">
-        {{- partial "PrepareHTML" .Title -}}
+        {{ safeHTML .Title }}
       </a>
     {{- partial "PrepareHTML" (printf "</%s>" $heading) -}}
 
     {{- if .Scratch.Get "show_description" }}
       {{- if .Params.summary }}
-        <p>{{ partial "PrepareText" .Params.summary }}</p>
+        <p>{{ safeHTML .Params.summary }}</p>
       {{ end -}}
     {{ end -}}
     {{- if .Scratch.Get "show_more" }}
